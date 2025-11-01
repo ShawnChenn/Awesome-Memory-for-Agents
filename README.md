@@ -67,7 +67,7 @@ This taxonomy maps directly to the three primary application scenarios that orga
 | 2023-05 | MemoryBank: Enhancing large language models with long-term memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2305.10250) |
 | 2023-04 | Unleashing infinite-length input capacity for large-scale language models with self-controlled memory system | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2304.13343) |
 
-#### Learn from Experience
+#### Learning from Experience
 
 | Date | Title | Paper |
 |:------:|:------|:------:|
