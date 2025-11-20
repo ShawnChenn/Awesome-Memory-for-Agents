@@ -29,8 +29,8 @@ This repository provides a curated list of papers on agent memory, structured by
 
 Within *Long-Term Memory*, we further distinguish based on its reliance on task outcomes (success/failure) for curation:
 
-- **Experience** involves knowledge explicitly validated by task outcomes.
-- **Memory** denotes information without reference to task outcomes;
+- **Experience** involves knowledge explicitly validated by task outcomes;
+- **Memory** denotes information without reference to task outcomes.
 
 This taxonomy maps directly to the three primary application scenarios that organize the papers in this repository:
 
